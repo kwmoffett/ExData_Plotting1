@@ -17,10 +17,17 @@ dataset (fulldata) and the Date/Time object (date_time) are removed to increase 
 There are eight files in this repository that correspond to one another on a pairwise basis. These files are as follows:
 
 1) plot1.R: This is the R script that loads the dataset and generates the first requested plot.
+
 2) plot1.png: This is the image file that outputs from plot1.R and constitutes the first requested plot.
+
 3) plot2.R: This is the R script that loads the dataset and generates the second requested plot.
+
 4) plot2.png: This is the image file that outputs from plot1.R and constitutes the second requested plot.
+
 5) plot3.R: This is the R script that loads the dataset and generates the third requested plot.
+
 6) plot3.png: This is the image file that outputs from plot1.R and constitutes the third requested plot.
+
 7) plot4.R: This is the R script that loads the dataset and generates the fourth requested plot.
+
 8) plot4.png: This is the image file that outputs from plot1.R and constitutes the fourth requested plot.
